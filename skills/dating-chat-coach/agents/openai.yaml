@@ -1,0 +1,7 @@
+interface:
+  display_name: "相亲聊天助手"
+  short_description: "用自己的口吻生成自然、体面的聊天回复"
+  default_prompt: "使用 $dating-chat-coach 分析这段聊天，并用我的口吻生成一条尊重、自然的回复。"
+
+policy:
+  allow_implicit_invocation: true
